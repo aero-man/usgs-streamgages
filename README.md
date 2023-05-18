@@ -1,6 +1,6 @@
 # USGS Streamgage Data Scraper
 
-Downloads, scrapes, and cleans data about the US Geological Survey's (USGS)
+Download, scrape, and clean data about the US Geological Survey's (USGS)
 streamgages around the United States.
 
 USGS has over 10,000 streamgages, which collect data about the waterflow of rivers
