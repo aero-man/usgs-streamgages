@@ -15,6 +15,7 @@ Output:
         - hydrologic unit
         - drainage area (square miles)
         - datum of gage (AKA elevation)
+        - datum type
     Example CSV:
         agency
 
