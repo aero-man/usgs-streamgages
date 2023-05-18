@@ -100,7 +100,6 @@ def main(arg):
             try:
                 regex = r'#    ([a-zA-Z]+) ([0-9]+) ([A-Za-z0-9\.\,\s\-\@\(\)]+)'
                 extraction = re.search(regex, line)
-                print(extraction.groups())
                 agency = extraction.group(1)
                 location_id = extraction.group(2)
                 name = extraction.group(3)
