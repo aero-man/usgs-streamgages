@@ -19,6 +19,13 @@ USGS inventory webpages for the following additional info:
 - datum of gage (AKA elevation)
 - datum type
 
+## Usage
+```
+python3 get_streamgages_for_state.py ny
+```
+
+where `ny` is a state's two-letter code (examples: `az`, `ca`, `or`)
+
 ## Data sources:
 * [USGS National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=default)
 * [USGS Water Services API](https://waterdata.usgs.gov/nwis/rt)
